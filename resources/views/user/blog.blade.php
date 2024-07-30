@@ -3,7 +3,7 @@
 @section('header')
     <style>
         #hero{
-            background: url('{{asset('user/images/Tugu-Jogja.png')}}') top center;
+            background: url('{{asset('user/images/gallery/cemilan5.jpeg')}}') top center;
             background-repeat: no-repeat;
             width:100%;
             background-size:cover;
@@ -25,8 +25,8 @@
 @endsection
 
 @section('hero')
-    <h1>Blog Jogja-Travel</h1>
-    <h2>Kumpulan artikel-artikel wisata Jogja, Tips travelling, dan kesehatan</h2>
+    <h1>Blog Xaxaxa-FnB</h1>
+    <h2>Kumpulan artikel-artikel makanan dan minuman Xaxaxa</h2>
 @endsection
 
 

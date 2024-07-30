@@ -3,7 +3,7 @@
 @section('header')
     <style>
         #hero{
-            background: url('{{asset('user/images/destination.png')}}') top center;
+            background: url('{{asset('user/images/gallery/cemilan6.jpg')}}') top center;
             background-repeat: no-repeat;
             width:100%;
             background-size:cover;
@@ -23,8 +23,8 @@
 @endsection
 
 @section('hero')
-    <h1>Destinasi Jogja-Travel</h1>
-    <h2>Cek semua destinasi-destinasi yang dapat anda kunjungi untuk liburan anda</h2>
+    <h1>Daftar Menu Xaxaxa-FnB</h1>
+    <h2>Cek semua menu yang kami miliki disini</h2>
 @endsection
 
 @section('content')
@@ -37,8 +37,8 @@
 
               {{-- <div class=" wow fadeInUp">
                 <div class="section-header">
-                  <h3 class="section-title">Daftar Destinasi</h3>
-                  <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+                  <h3 class="section-title">Daftar Menu </h3>
+                  <p class="section-description">Kumpulan daftar menu yang kami miliki dapat anda lihat dan cari dibawah</p>
                 </div>
               </div>
               <div class=" wow fadeInUp">
@@ -73,7 +73,7 @@
             <div class="col-sm-3 mt-5">
               <form action="{{route('destination')}}" class="mt-5">
                 <div class="input-group mb-4 border rounded-pill shadow-lg" style="border-radius:10px; box-shadow: 3px 3px 8px grey;">
-                  <input type="text" name="s" value="{{Request::get('s')}}" placeholder="Destinasi lain?" class="form-control bg-none border-0" style="border-top-left-radius: 10px; border-bottom-left-radius: 10px;">
+                  <input type="text" name="s" value="{{Request::get('s')}}" placeholder="Menu lainnya?" class="form-control bg-none border-0" style="border-top-left-radius: 10px; border-bottom-left-radius: 10px;">
                   <div class="input-group-append border-0">
                     <button type="submit" class="btn text-success"><i class="fa fa-search"></i></button>
                   </div>

@@ -41,7 +41,7 @@
 
       <div id="logo" class="pull-left">
         <a href="#hero">
-          <img src="{{asset('user/images/icon.png')}}" style="margin-right:5px"/></img>
+          <img src="{{asset('user/images/icon-1.png')}}" style="margin-right:1px"/></img>
           <h2 class="d-inline text-light">Company Profile</h2>
         </a>
       </div>
@@ -50,7 +50,7 @@
         <ul class="nav-menu">
           <li class="{{$url=='home'?'menu-active':''}}"><a href="{{url('home')}}">Home</a></li>
           <li class="{{$url=='blog'?'menu-active':''}}"><a href="{{url('blog')}}">Blog</a></li>
-          <li class="{{$url=='destination'?'menu-active':''}}"><a href="{{url('destination')}}">Destination</a></li>
+          <li class="{{$url=='destination'?'menu-active':''}}"><a href="{{url('destination')}}">Menu</a></li>
           <li class="{{$url=='contact'?'menu-active':''}}"><a href="{{url('contact')}}">Contact </a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
@@ -85,7 +85,7 @@
         &copy; Copyright <strong>Xaxaxa</strong>. All Rights Reserved
       </div>
       <div class="credits">
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://bootstrapmade.com/">Xaxaxa</a>
       </div>
     </div>
   </footer><!-- #footer -->

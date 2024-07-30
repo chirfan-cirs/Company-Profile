@@ -12,8 +12,8 @@
 @endsection
 
 @section('hero')
-    <h1>Contact Jogja-Travel</h1>
-    <h2>Bergabung dan liburan bersama Kami</h2>
+    <h1>Contact Xaxaxa-FnB</h1>
+    <h2>Nikmati waktu santai dengan cemilan kami</h2>
 @endsection
 
 @section('content')
@@ -22,7 +22,7 @@
     <div class="container wow fadeInUp">
       <div class="section-header">
         <h3 class="section-title">Contact</h3>
-        <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        <p class="section-description">Hubungi kami jika anda tertarik</p>
       </div>
     </div>
 
@@ -36,18 +36,18 @@
           <div class="info">
             <div>
               <i class="fa fa-map-marker"></i>
-              <p>Gedong Tengen,
-                <br>Daerah Istimewa Yogyakarta</p>
+              <p>Simprug Poris,
+                <br>Kota Tangerang</p>
             </div>
 
             <div>
               <i class="fa fa-envelope"></i>
-              <p>danyadhi4149@gmail.com</p>
+              <p>Xaxaxa0804@gmail.com</p>
             </div>
 
             <div>
               <i class="fa fa-phone"></i>
-              <p>0831-6179-3990</p>
+              <p>08570000000</p>
             </div>
           </div>
 

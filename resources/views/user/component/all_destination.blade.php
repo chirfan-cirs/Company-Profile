@@ -1,8 +1,8 @@
 @if (count($destinations) != 0)
     <div class=" wow fadeInUp">
       <div class="section-header">
-        <h3 class="section-title">Daftar Destinasi</h3>
-        <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        <h3 class="section-title">Daftar Menu</h3>
+        <p class="section-description">Kumpulan daftar menu yang kami miliki dapat anda lihat dan cari dibawah</p>
       </div>
     </div>
     <div class=" wow fadeInUp">
